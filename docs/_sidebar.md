@@ -1,0 +1,4 @@
+- laoyu的KCMC2服经历
+  - 初到生存2服
+    - [发现新大陆](data/kcmc/survival2/cometo2.md)
+    - [建房奴隶](data/kcmc/survival2/build.md)
